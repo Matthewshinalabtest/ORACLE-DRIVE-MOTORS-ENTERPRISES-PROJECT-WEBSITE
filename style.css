@@ -13,6 +13,8 @@ body{
     padding: 20px;
 } 
 
+
+
 .price_name{
     color: #000;
 }
@@ -54,6 +56,17 @@ p{
     margin: auto;
     padding-left: 25px;
     padding-right: 25px;
+}
+
+.banner{
+    color: #3e0afa;
+    text-shadow: #ffffff;
+    font-weight: bold;
+}
+
+.banner,h3{
+    font-size: 20px;
+    float: right;
 }
 
 .row{
@@ -370,8 +383,9 @@ ul{
 }
 
 .app-logo img{
-    height: 50px;
-    width: 50px;
+    height: 100px;
+    width: 0px;
+    
 }
 
 .footer hr{
